@@ -1,4 +1,4 @@
-# angular-the-complete-guide-2023
+# angular-complete-notes
 
 This repository contains the code written during my time studying Maximilian Schwarzmüller's [Angular - The Complete Guide 2023] on Udemy.
 
